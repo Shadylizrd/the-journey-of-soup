@@ -1,0 +1,12 @@
+Journey of Soup controls:
+
+W:      up
+A:      left
+S:      down
+D:	    right
+SPACE:	roll
+SHIFT:	run
+
+E:	Select
+Q:	Back
+ESC:	Enter/Exit Options Screen
